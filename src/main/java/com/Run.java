@@ -9,7 +9,11 @@ public class Run {
         System.out.println("version 1.. viv-ex .. has been deleted now");
     }
 
-    static void sayHello(){
+    static void sayHello() {
         System.out.println("hello.. ");
     }
-}
+
+        static void print () {
+            System.out.println("added a new method to print");
+        }
+    }
