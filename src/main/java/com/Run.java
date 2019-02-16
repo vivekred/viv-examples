@@ -8,4 +8,8 @@ public class Run {
 
         System.out.println("version 1.. viv-ex .. has been deleted now");
     }
+
+    static void sayHello(){
+        System.out.println("hello.. ");
+    }
 }
